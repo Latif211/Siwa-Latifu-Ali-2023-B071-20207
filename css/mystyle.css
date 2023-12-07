@@ -1,0 +1,23 @@
+body{
+color: darkkhaki;
+
+
+}
+form{
+    margin: 5px;
+    padding-left: 20px;
+}
+img{
+    width: 150px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+   
+}
+.second{
+    display: flex;
+}
+table{
+   padding-left: 60px;
+   padding-top: 40px;
+}
